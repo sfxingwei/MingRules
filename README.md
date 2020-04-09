@@ -20,7 +20,7 @@ mr.tune_ft_threshold(1.5,node_no='8') 修改节点阈值
 #
 mr.Ming_Rule_plot() 展示修改节点阈值后的决策树
 #
-# 决策树节点信息
+# 节点信息
 node_id:节点id
 #
 samples：节点样本数
