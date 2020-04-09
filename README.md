@@ -14,7 +14,7 @@ mr=RuleMing(max_depth=3) 参数同决策树参数
 #
 mr.MingRules(X,y)
 #
-mr.Ming_Rule_plot() 展示决策树
+mr.Ming_Rule_Plot() 展示决策树
 #
 mr.tune_ft_threshold(1.5,node_no='8') 修改节点阈值
 #
