@@ -6,7 +6,7 @@ Ming rules for risk policy
 链接：https://pan.baidu.com/s/12edfvzt8sRdhPmU28qLb1g 
 提取码：nl4y 
 复制这段内容后打开百度网盘手机App，操作更方便哦
-
+#
 # 案例
 from MingRules import rules_dm
 #
@@ -19,7 +19,7 @@ mr.Ming_Rule_plot() 展示决策树
 mr.tune_ft_threshold(1.5,node_no='8') 修改节点阈值
 #
 mr.Ming_Rule_plot() 展示修改节点阈值后的决策树
-
+#
 # 决策树节点信息
 node_id:节点id
 #
